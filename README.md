@@ -1,15 +1,11 @@
----
+🐍 Snake, Water, Gun: Python Edition
 
-## 🐍 Snake, Water, Gun: Python Edition
-A lightweight, CLI-based implementation of the classic Indian variant of Rock-Paper-Scissors. This project demonstrates foundational Python concepts through a simple, interactive game loop.
+A short and interactive command-line game built with Python, inspired by the classic Snake-Water-Gun format. This project showcases core Python fundamentals like user input, random selection, dictionaries, and conditional logic in a fun way.
 
-### ⚡ Key Features
-* **Automated Opponent:** Uses Python’s `random` module to simulate a computer player.
-* **Smart Mapping:** Leverages dictionaries to translate user shorthand (`s`, `w`, `g`) into game logic.
-* **Logical Decision Tree:** Employs a robust conditional system to determine Win, Loss, or Draw outcomes instantly.
-
-### 🛠️ Tech Stack
-* **Language:** Python 3.x
-* **Modules:** `random`
-
----
+⚡ Highlights
+Computer Opponent: Randomly chooses Snake, Water, or Gun
+User Input Mapping: Converts s, w, and g into game choices
+Game Logic: Instantly decides win, lose, or draw outcomes
+🛠️ Built With
+Python 3
+random module
